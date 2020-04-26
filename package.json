@@ -1,7 +1,7 @@
 {
   "name": "world-map-vue",
   "version": "0.2.0",
-  "description": "A Vue JS component for displaying dynamic data on a world map. Forked from Ghrehh and Mrityunjay Saxena.",
+  "description": "A Vue JS component for displaying a world map with colored countries and overlay information. Forked from Ghrehh and Mrityunjay Saxena.",
   "main": "src/App.vue",
   "scripts": {
     "test": "jest --config jest.conf.js",
@@ -39,6 +39,17 @@
     "vue-jest": "^3.0.5",
     "vue-loader": "^15.9.1"
   },
-  "author": "Francisco Grau",
-  "license": "MIT"
+  "author": "Fran Grau",
+  "license": "MIT",
+  "keywords": [
+    "vue",
+    "world map",
+    "colors",
+    "individual",
+    "independent",
+    "map",
+    "hover",
+    "click",
+    "overlay"
+  ]
 }
