@@ -1,6 +1,6 @@
 {
   "name": "world-map-vue",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A Vue JS component for displaying a world map with colored countries and overlay information. Forked from Ghrehh and Mrityunjay Saxena.",
   "main": "src/App.vue",
   "scripts": {
