@@ -14,7 +14,7 @@ Install via npm using `npm install world-map-vue`
 ## Usage
 
 The original component from Ghrehh is most useful in creating a heat map for various countries. And
-will color countries differently based on a props passed. This feature is still available on this fork. 
+will color countries differently based on a props passed. This feature is still available on this fork. Just set the property `countryColors` as false.
 Please check the original documentation if you are interested in that feature/usage:
 https://github.com/Ghrehh/world-map-vue
 
