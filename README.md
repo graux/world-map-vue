@@ -3,7 +3,7 @@
 A Vue JS Component for displaying dynamic data on a world map. You can use a different color for each individual country
  and display information overlays associated to each country by hover or click events. 
 
-Forked from [Ghrehh's world-map-vue](https://github.com/Ghrehh/world-map-vue) and [mrityunjaygr8](https://github.com/mrityunjaygr8/world-map-vue)
+Forked from [Ghrehh's world-map-vue](https://github.com/Ghrehh/vue-world-map) and [mrityunjaygr8](https://github.com/mrityunjaygr8/vue-world-map)
 
 Map from [amCharts](https://www.amcharts.com/svg-maps/?map=world)
 
